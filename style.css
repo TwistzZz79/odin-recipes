@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color:rgb(204, 193, 32);
+    font-weight: bold;
+    background-color: black;
+    font-size: 30px;
+}
+*{
+    background-color:grey;
+}
+li{
+    color: rgb(224, 177, 22);
+    font-size: 20px;
+}
